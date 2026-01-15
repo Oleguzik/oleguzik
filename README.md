@@ -24,4 +24,4 @@ I’m open to:
 📫 **Email:** [guzik.oleg@gmail.com](mailto:guzik.oleg@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/oleguzik](https://www.linkedin.com/in/oleguzik/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=oleguzik.oleguzik.readme) 
+![Github views](https://komarev.com/ghpvc/?username=oleguzik&color=blueviolet) ![GitHub followers](https://img.shields.io/github/followers/oleguzik?label=Follow&style=social)
