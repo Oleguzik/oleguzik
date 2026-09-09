@@ -2,7 +2,7 @@
 
 **AI Engineer** — Python, FastAPI, RAG & document-processing pipelines. M.Sc. Computer Science.
 
-Built a document-fraud detection system for an Austrian bank from zero (DocFraud, via IDCanopy) — architecture, technology selection and implementation were entirely my responsibility. Before AI: a year of production React/TypeScript, and nine years running a Drupal platform with 10,000+ daily visitors.
+Built a document-fraud detection system for an Austrian bank from zero (DocFraud, via IDCanopy) — architecture, technology selection and implementation were entirely my responsibility. Before AI: a year of production React/TypeScript, and nine years running a Drupal platform with daily visitors.
 
 ## 🧩 Tech Stack
 
@@ -36,7 +36,8 @@ Open to:
 - AI Engineer / Backend Developer (Python) roles — full-time, part-time or contract
 - Based in Düren, Germany — open to NRW & remote
 
-📫 **Email:** [guzik.oleg@gmail.com](mailto:guzik.oleg@gmail.com) /n
+📫 **Email:** [guzik.oleg@gmail.com](mailto:guzik.oleg@gmail.com) 
+
 💼 **LinkedIn:** [linkedin.com/in/oleguzik](https://www.linkedin.com/in/oleguzik/)
 
 ![Github views](https://komarev.com/ghpvc/?username=oleguzik&color=blueviolet) ![GitHub followers](https://img.shields.io/github/followers/oleguzik?label=Follow&style=social)
