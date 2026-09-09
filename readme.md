@@ -36,7 +36,7 @@ Open to:
 - AI Engineer / Backend Developer (Python) roles — full-time, part-time or contract
 - Based in Düren, Germany — open to NRW & remote
 
-📫 **Email:** [guzik.oleg@gmail.com](mailto:guzik.oleg@gmail.com)
+📫 **Email:** [guzik.oleg@gmail.com](mailto:guzik.oleg@gmail.com) /n
 💼 **LinkedIn:** [linkedin.com/in/oleguzik](https://www.linkedin.com/in/oleguzik/)
 
 ![Github views](https://komarev.com/ghpvc/?username=oleguzik&color=blueviolet) ![GitHub followers](https://img.shields.io/github/followers/oleguzik?label=Follow&style=social)
